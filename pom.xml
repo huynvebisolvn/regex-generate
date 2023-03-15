@@ -45,30 +45,6 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-
-<!-- 		<dependency>
-			<groupId>com.maleregextree</groupId>
-			<artifactId>maleregextree</artifactId>
-			<version>1.0</version>
-			<scope>system</scope>
-			<systemPath>${basedir}/lib/MaleRegexTree.jar</systemPath>
-		</dependency>
-		<dependency>
-			<groupId>com.randomregexturtle</groupId>
-			<artifactId>randomregexturtle</artifactId>
-			<version>1.0</version>
-			<scope>system</scope>
-			<systemPath>${basedir}/lib/Random_Regex_Turtle.jar</systemPath>
-		</dependency>
-		<dependency>
-			<groupId>com.rt</groupId>
-			<artifactId>rt</artifactId>
-			<version>1.0</version>
-			<scope>system</scope>
-			<systemPath>${basedir}/lib/rt.jar</systemPath>
-		</dependency> -->
-
-
 	</dependencies>
 
 	<build>
